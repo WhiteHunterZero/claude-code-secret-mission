@@ -1,0 +1,3 @@
+interface:
+  display_name: "Git Management"
+  short_description: "จัดการ git workflow ทั้งหมดของ project"
